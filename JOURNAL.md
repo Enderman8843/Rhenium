@@ -19,3 +19,12 @@ Nothing much just installed it and did some yt research too , checked the hackpa
 
   
 
+## 10/22/2025 - Y'all Plan changed  
+
+After learning the new rule that I can only make one keyboard , So I did some reasearch and decided to do a 75% keyboard here is the basic design , Y'all I am quite slow so it took time , Idk what I am doing still doing it 
+
+First I made macropad with Xiao 2040 , but scraped it then I transistioned to a keybaord with full sized pico so here it is 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7d5e3df9359081573a128ebad19e9ca3f73afa8e/image.png)
+  
+
