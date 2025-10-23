@@ -28,3 +28,11 @@ First I made macropad with Xiao 2040 , but scraped it then I transistioned to a 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7d5e3df9359081573a128ebad19e9ca3f73afa8e/image.png)
   
 
+## 10/23/2025 - WTH is a diode!  
+
+Y'all today I decided to do 84 keys (idk why this number) , Thinking to add a oled screen and a knob (for brightness and volm) and then I Started to work on it then I realized that how tf I would connect 84 keys to only 22 GPIO's (As I had learnt in HACKPAD) then I found I need something called Diode which I researched I found I need this type of Diode, Used ChatGPT for this and some keyboard projects for this (This took heck a lot of time). Also after consulting communites I fell in a dillema to choose b/w pico and Esp32
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--65be07f7bb11d6740e4115ad7bb40b1761eb64cd/image.png)
+  
+
