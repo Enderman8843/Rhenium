@@ -36,3 +36,10 @@ Y'all today I decided to do 84 keys (idk why this number) , Thinking to add a ol
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--65be07f7bb11d6740e4115ad7bb40b1761eb64cd/image.png)
   
 
+## 11/7/2025 - Changed the Diode and did many more things!  
+
+Y'all Logging a new journal after many days , I couldn't make journals because I had continuous class and tests , though within these days(each day I did around 30-45 mins researched) I researched and checked different component of keyboard like keycap and stabilizers , I was confused with stabilizers then I changed the diode one by one , then I am also thinking to add rgb (I hate it but like the white color) then I placed some keys but then I got confuesd with wirining as I hapazhardly placed the keys without any info
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEzNywicHVyIjoiYmxvYl9pZCJ9fQ==--08b493e52448181a47724deeb9006b736171b0ad/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--566157d75976b8670c07b926c1edfdecfc07ef6a/image.png)
+  
+
