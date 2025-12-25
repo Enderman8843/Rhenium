@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "C:/Project_Summer/Rhenium/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "LCs")(type "KiCad")(uri "C:/Project_Summer/Rhenium/hardware/lib/lcsc.kicad_sym")(options "")(descr ""))
+)
