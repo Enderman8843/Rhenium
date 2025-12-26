@@ -6,7 +6,7 @@ It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this
 
 ## Case Render
 
-| Top & Side View | Internal Structure |
+| Top & Side View | Rear view |
 |----------------|-------------------|
 | ![](https://github.com/user-attachments/assets/943222ba-c27b-4969-9e33-759ce6106a0e) | ![](https://github.com/user-attachments/assets/8baf95bf-c2f0-4316-a47c-9f9028bc37a0) |
 
