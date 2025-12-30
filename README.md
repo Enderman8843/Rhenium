@@ -32,3 +32,10 @@ It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this
 
 ## JLCPCB ORDER 
 <img width="1541" height="695" alt="image" src="https://github.com/user-attachments/assets/8fece229-881d-4c36-9aa0-88e6c3cc1323" />
+
+## Shipment Option 
+<img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/6538e16d-000c-4e74-b8ac-50a803ae2e80" />
+
+
+See I did not find gdsr option so I chose UPS world wide express shipment
+
