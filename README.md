@@ -26,7 +26,7 @@ It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this
   |
 | 3D view |
 |-------------------|
-| ![](https://github.com/user-attachments/assets/dbad8d29-3720-4c56-88d2-10a953b8a2f6) |
+| <img width="1728" height="678" alt="image" src="https://github.com/user-attachments/assets/114b3b60-67d3-4198-940e-f5bd274e3289" /> |
 
 
 
