@@ -5,8 +5,7 @@ It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this
 ## Why Rhenium! 
 Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
 
-## Name 
-Insprined from Chromium name 
+Rhenium was named after the inspiration taken from the chromium browser!
 
 
 ## Case Render
