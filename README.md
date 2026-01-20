@@ -55,7 +55,7 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 | Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
 | Akko Switches | Switch Set (45) | 2 | 14.00 | 28.00 | https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/ |
 | Keycaps | MDA Profile Keycaps | 1 | 16.69 | 16.69 | https://stackskb.com/store/stackspbt-lavender-mda-profile-keycaps-131-key/ |
-| OLED Display | 0.91" OLED Display | 1 | 2.23 | 2.23 | https://robocraze.com/products/0-91-inch-blue-oled-display-module |
+| OLED Display | 0.91" OLED Display | 1 | 2.23 | 2.23 | https://robu.in/product/blue-oled-display-module/ |
 | Vertical Rotary Encoder | Rotary Encoder | 1 | 2.00 | 2.00 | https://www.amazon.in/dp/B0888RWNM1 |
 | Rotary Cap | Knob Cap | 1 | 0.40 | 0.40 | https://robu.in/product/potentiometer-knob-rotary-switch-cap-black-color-pack-of-5-pcs/ |
 | M2 Screw + Hex + Washer | Misc Hardware | 6 | 0.80 | 0.80 | https://onlyscrews.in/products/m2-nut-ss-304 |
