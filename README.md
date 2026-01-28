@@ -34,12 +34,12 @@ Rhenium was named after the inspiration taken from the chromium browser!
 
 
 ## JLCPCB ORDER 
-<img width="1541" height="695" alt="image" src="https://github.com/user-attachments/assets/8fece229-881d-4c36-9aa0-88e6c3cc1323" />
-<img width="1104" height="861" alt="image" src="https://github.com/user-attachments/assets/b89ee6eb-312d-41c0-9d4d-67d801cd74cd" />
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/50147309-e404-436d-8b59-fd1b0673f82e" />
 
 
 ## Shipment Option 
-<img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/6538e16d-000c-4e74-b8ac-50a803ae2e80" />
+<img width="1833" height="726" alt="image" src="https://github.com/user-attachments/assets/13bec65b-151d-4a31-bc83-f41675e33308" />
+
 
 
 See I did not find gdsr option so I chose UPS world wide express shipment
@@ -48,7 +48,7 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 ## BOM
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
 |------|------------|----------|----------------|-----------------|-----|
-| PCB | JLCPCB | 1 | 145.57 | 145.57 | https://jlcpcb.com |
+| PCB | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
 | Pinecil V2 | Solder Iron | 1 | OWNED | 0.00 | OWNED |
 | Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
 | Akko Switches | Switch Set (45) | 2 | 14.00 | 28.00 | https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/ |
@@ -57,5 +57,6 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 | Vertical Rotary Encoder | Rotary Encoder | 1 | 2.00 | 2.00 | https://www.amazon.in/dp/B0888RWNM1 |
 | Rotary Cap | Knob Cap | 1 | 0.40 | 0.40 | https://robu.in/product/potentiometer-knob-rotary-switch-cap-black-color-pack-of-5-pcs/ |
 | M2 Screw + Hex + Washer | Misc Hardware | 6 | 0.80 | 0.80 | https://onlyscrews.in/products/m2-nut-ss-304 |
-| **TOTAL** |  |  |  | **201.34** |  |
+| Soldering Essentials | Solder+Flux+TipCleaner | 1 | 4.54 | 4.54 | https://robocraze.com/products/7cmx5-5cm-soldering-cleaning-sponge-for-soldering-irons-work-stands?variant=47303371227360 , https://robu.in/product/solder-wire-0-8mm50g/ , https://robu.in/product/noel-flux-soldering-paste-10g/ |
+| **TOTAL** |  |  |  | **175 $** |  |
 
