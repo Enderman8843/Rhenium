@@ -42293,6 +42293,7 @@
 			)
 		)
 		(model "C:/Users/Sashi/Downloads/ImageToStl.com_Potentiometer+Knob/Potentiometer Knob.step"
+			(hide yes)
 			(offset
 				(xyz 7 -2 16)
 			)
