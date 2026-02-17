@@ -26,10 +26,12 @@ Rhenium was named after the inspiration taken from the chromium browser!
 
 | PCB  | Schematics|
 |-------------|----------------|
-| <img src="https://github.com/user-attachments/assets/e1f5970a-f311-44da-96bd-c3734f4fac79" /> | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
+| <img width="1420" height="555" alt="image" src="https://github.com/user-attachments/assets/6aa9dcc3-1474-4de8-a703-1d9242734357" />
+ | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
 | 3D view |
 |-------------------|
-| <img width="1728" height="678" alt="image" src="https://github.com/user-attachments/assets/114b3b60-67d3-4198-940e-f5bd274e3289" /> |
+|<img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/77b6122b-f213-4de6-9a9f-078f95720aaf" />
+|
 
 
 
