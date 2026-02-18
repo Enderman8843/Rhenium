@@ -1,4 +1,4 @@
-<img width="833" height="386" alt="image" src="https://github.com/user-attachments/assets/a1dac737-2eb3-42d6-b18b-5f769e7dbd13" /># Rhenium 
+# Rhenium 
 It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
 
 
@@ -12,9 +12,7 @@ Rhenium was named after the inspiration taken from the chromium browser!
 
 | Top & Side View | Rear view |
 |----------------|-------------------|
-| <img width="1357" height="345" alt="image" src="https://github.com/user-attachments/assets/e26d6600-2256-4995-b828-ffc97c8be734" />
-| <img width="888" height="401" alt="image" src="https://github.com/user-attachments/assets/ef015648-5874-485f-812c-8e2704d7d2b0" />
-|
+| <img width="1357" height="345" alt="image" src="https://github.com/user-attachments/assets/e26d6600-2256-4995-b828-ffc97c8be734" /> | <img width="888" height="401" alt="image" src="https://github.com/user-attachments/assets/ef015648-5874-485f-812c-8e2704d7d2b0" /> |
 
 | Full Assembly View |
 |-------------------|
@@ -31,7 +29,8 @@ Rhenium was named after the inspiration taken from the chromium browser!
 | <img width="1420" height="555" alt="image" src="https://github.com/user-attachments/assets/6aa9dcc3-1474-4de8-a703-1d9242734357" /> | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
 | 3D view |
 |-------------------|
-|<img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/77b6122b-f213-4de6-9a9f-078f95720aaf" />|
+|<img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/77b6122b-f213-4de6-9a9f-078f95720aaf" />|<img width="1304" height="585" alt="image" src="https://github.com/user-attachments/assets/7376ee5c-4751-4ebb-b49a-381bdcb0a255" />|
+
 
 
 
