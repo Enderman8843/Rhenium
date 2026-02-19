@@ -2,11 +2,13 @@
 It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
 
 
-## Why Rhenium! 
+## Why Rhenium?
 Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
 
 Rhenium was named after the inspiration taken from the chromium browser!
 
+## How To Use ?
+To use this computer appartus I would suggest using your biological input device so called digits i.e. fingers ,Begin by selecting finger of your choice then elevate your finger about 0.3-0.4 cm above the desired key then place it in on that particular key then gently apply 0.30N of magnitude of force this would lead your visual display unit to render the desired character represented by the key , Simple as that
 
 ## Case Render
 
