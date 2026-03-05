@@ -1,5 +1,5 @@
 # Rhenium 
-It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
+It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
 
 
 ## Why Rhenium?
