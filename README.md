@@ -55,6 +55,7 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 |------|------------|----------|----------------|-----------------|-----|
 | PCB | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
 | Pinecil V2 | Solder Iron | 1 | OWNED | 0.00 | OWNED |
+| Diodes | Diodes | 75 | Owned | 0.00 | Owned |
 | Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
 | Akko Switches | Switch Set (45) | 2 | 14.00 | 28.00 | https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/ |
 | Keycaps | MDA Profile Keycaps | 1 | 16.69 | 16.69 | https://stackskb.com/store/stackspbt-lavender-mda-profile-keycaps-131-key/ |
