@@ -28,7 +28,7 @@ Before that make sure the assemeble the keyboard and connect it via the usb-c , 
 
 ## PCB Layout and Render
 
-| PCB  | Schematics|
+| PCB  | Schematics /Wiring |
 |-------------|----------------|
 | <img width="1420" height="555" alt="image" src="https://github.com/user-attachments/assets/6aa9dcc3-1474-4de8-a703-1d9242734357" /> | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
 | 3D view |
