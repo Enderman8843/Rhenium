@@ -53,7 +53,7 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 ## BOM
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
 |------|------------|----------|----------------|-----------------|-----|
-| PCB | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
+| PCB (V1 and V2 , PICO) | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
 | Pinecil V2 | Solder Iron | 1 | OWNED | 0.00 | OWNED |
 | Diodes | Diodes | 75 | Owned | 0.00 | Owned |
 | Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
