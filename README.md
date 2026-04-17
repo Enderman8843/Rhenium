@@ -1,6 +1,18 @@
 # Rhenium 
-It is a Keyboard that is powered by RP2040 microprocssor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
+It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, this keyboard is using akko v3 pro black switches also this has a layout of a slight variation of ANSI-104 
 
+
+Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?usp=sharing
+# Photos
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/6e472547-33d7-4df0-bba1-8d2fc068e25d" />
+
+
+
+# KMK FIRMWARE 
+*ALWAYS USE THIS
+
+# QMK FIRMWARE 
+*Bit Glitchy 
 
 ## Why Rhenium?
 Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
@@ -9,6 +21,8 @@ Rhenium was named after the inspiration taken from the chromium browser!
 
 ## How To Use ?
 To use this computer appartus I would suggest using your biological input device so called digits i.e. fingers ,Begin by selecting finger of your choice then elevate your finger about 0.3-0.4 cm above the desired key then place it in on that particular key then gently apply 0.30N of magnitude of force this would lead your visual display unit to render the desired character represented by the key , Simple as that
+
+Before that make sure the assemeble the keyboard and connect it via the usb-c , and to flash the firmware use the bootsel btn and build the `.uf2` fie usinf qmk-compile (Note the firmware is untested)
 
 ## Case Render
 
@@ -26,7 +40,7 @@ To use this computer appartus I would suggest using your biological input device
 
 ## PCB Layout and Render
 
-| PCB  | Schematics|
+| PCB  | Schematics /Wiring |
 |-------------|----------------|
 | <img width="1420" height="555" alt="image" src="https://github.com/user-attachments/assets/6aa9dcc3-1474-4de8-a703-1d9242734357" /> | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
 | 3D view |
@@ -51,8 +65,9 @@ See I did not find gdsr option so I chose UPS world wide express shipment
 ## BOM
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
 |------|------------|----------|----------------|-----------------|-----|
-| PCB | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
+| PCB (V1 and V2 , PICO) | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
 | Pinecil V2 | Solder Iron | 1 | OWNED | 0.00 | OWNED |
+| Diodes | Diodes | 75 | 0.01 | 1 | Owned |
 | Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
 | Akko Switches | Switch Set (45) | 2 | 14.00 | 28.00 | https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/ |
 | Keycaps | MDA Profile Keycaps | 1 | 16.69 | 16.69 | https://stackskb.com/store/stackspbt-lavender-mda-profile-keycaps-131-key/ |
