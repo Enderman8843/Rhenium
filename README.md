@@ -9,10 +9,10 @@ Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?us
 
 
 # KMK FIRMWARE 
-
+*ALWAYS USE THIS
 
 # QMK FIRMWARE 
-
+*Bit Glitchy 
 
 ## Why Rhenium?
 Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
