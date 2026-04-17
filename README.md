@@ -10,6 +10,8 @@ Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?us
 
 # KMK FIRMWARE 
 *ALWAYS USE THIS
+1. Install CircuitPY
+2. Copy these files: -https://github.com/Enderman8843/Rhenium/tree/f9bf0482101a7b040eca7897d7e98482e09b73b1/firmware/KMK%20FIRMWARE
 
 # QMK FIRMWARE 
 *Bit Glitchy 
