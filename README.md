@@ -1,5 +1,17 @@
 # Rhenium 
-It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, this keyboard is expected to be used with MX-Red Switches also this has a layout of a slight variation of ANSI-104 
+It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, this keyboard is using akko v3 pro black switches also this has a layout of a slight variation of ANSI-104 
+
+
+Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?usp=sharing
+# Photos
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/6e472547-33d7-4df0-bba1-8d2fc068e25d" />
+
+
+
+# KMK FIRMWARE 
+
+
+# QMK FIRMWARE 
 
 
 ## Why Rhenium?
