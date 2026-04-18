@@ -4,7 +4,8 @@ It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, thi
 
 Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?usp=sharing
 # Photos
-<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/6e472547-33d7-4df0-bba1-8d2fc068e25d" />
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/250fdf58-ebd3-413c-8a87-c5b559079aee" />
+
 
 
 
@@ -15,6 +16,10 @@ Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?us
 
 # QMK FIRMWARE 
 *Bit Glitchy 
+1. Put this UF2 in rpi
+https://github.com/Enderman8843/Rhenium/tree/909fbee6c6720d5a931a36db898d5d94f6ce02c9/firmware/UF2FILES/QMK
+
+
 
 ## Why Rhenium?
 Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
