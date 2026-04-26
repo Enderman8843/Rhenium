@@ -30,8 +30,7 @@ Rhenium was named after the inspiration taken from the chromium browser!
 ## How To Use ?
 To use this computer appartus I would suggest using your biological input device so called digits i.e. fingers ,Begin by selecting finger of your choice then elevate your finger about 0.3-0.4 cm above the desired key then place it in on that particular key then gently apply 0.30N of magnitude of force this would lead your visual display unit to render the desired character represented by the key , Simple as that
 
-Before that make sure the assemeble the keyboard and connect it via the usb-c , and to flash the firmware use the bootsel btn and build the `.uf2` fie usinf qmk-compile (Note the firmware is untested)
-
+Before that make sure the assemeble the keyboard and connect it via the usb-c , and to flash the firmware use the bootsel btn and read the above for both KMK and QMK
 ## Case Render
 
 | Top & Side View | Rear view |
